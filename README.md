@@ -79,11 +79,13 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
    ![Graphical](JMST1.jpg)
 
 -	**M. Akmal**, Hyung-Ki Park, Ho Jin Ryu, Plasma Spheroidized MoNbTaTiZr High Entropy Alloy Showing Improved Plasticity, [Materials Chemistry and Physics, 24 July (2021) 125060](https://doi.org/10.1016/j.matchemphys.2021.125060) (IF 4.6)
-
+  ![Graphical](MCPHEA.jpg)
+ 	
 -	**M. Akmal**, Muhmood-ul Hassan, M. Afzal, Ho Jin Ryu, Novel Approach to Sintering Hydroxyapatite-Alumina Nanocomposites at 300 °C,  [Materials Chemistry and Physics,  260 (2021) 124187](https://www.sciencedirect.com/science/article/pii/S0254058420315479) (IF 4.6)
 
 -	M. Hassan, **M. Akmal**, Ho Jin Ryu, Cold sintering of as-dried nanostructured calcium hydroxyapatite without using additives, [Journal of Materials Research and Technology, 11 (2021) 811-822](https://www.sciencedirect.com/science/article/pii/S2238785421000624)  (IF 6.267)
-
+  ![Graphical](MCPCSP.jpg)
+ 	
 -	**M. Akmal***, A. Raza, M. Mudasser Khan, M. Imran Khan, M. A. Hussain, Effect of nano-hydroxyapatite reinforcement in mechanically alloyed NiTi composites for biomedical implant, [Materials Science and Engineering C, 68 (2016) 30-36](http://www.sciencedirect.com/science/article/pii/S0928493116305252) (IF 7.9)
 
 -	**M. Akmal***, M. A. Hussain, H. Ikram, T. Sattar, S. Jameel, J. Y. Kim, F. A. Khalid, J. W. Kim, In-vitro electrochemical and bioactivity evaluation of SS316L reinforced hydroxyapatite functionally graded materials fabricated for biomedical implants, [Ceramics International, 42 (2016) 3855–3863](http://www.sciencedirect.com/science/article/pii/S0272884215021495) (IF 5.532)
