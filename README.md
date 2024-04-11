@@ -8,20 +8,20 @@
 ## EDUCATION 
 
 #### Ph.D. in Materials Science and Engineering (2018 – 2022)
-Korea Advanced Institute of Science and Technology (KAIST)[Publication](https://www.kaist.ac.kr/en/), Daejeon, South Korea
+Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea
   **Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
   **Supervisor**: Prof. Ho Jin Ryu
   
 #### MS in Nanotechnology and Materials Engineering (2013 – 2015)
-GIK Institute of Engineering Sciences and Technology (GIKI)[Publication](https://www.giki.edu.pk/), Topi, 23460, Pakistan
+GIK Institute of Engineering Sciences and Technology [(GIKI)](https://www.giki.edu.pk/), Topi, 23460, Pakistan
 **Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants. Supervisor: Prof. Fazal Ahmad Khalid
 
 #### B.Sc in Metallurgy and Materials Engineering (2008 – 2012)
-Bahauddin Zakariya University (BZU)[Publication](https://www.bzu.edu.pk/), Multan, Pakistan
+Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 **FYP**: Effect of Ni on Hypo-eutectoid Steels
 
 ## PROFESSIONAL CAREER 
-**Senior Researcher | Department of High-Temperature Materials | KIMS[Publication](https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Date)**
+**Senior Researcher | Department of High-Temperature Materials | [KIMS](https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Date)**
 -	Investigated metal-mold reactions and related MC carbide growth in directionally solidified Ni-based superalloys (CM247LC; CMSX-4; GTD-111; René N5; IN738) for improvement in the casting processes. 
 -	Examining laser welding of dissimilar (Hastelloy-X and Inconel 939) superalloys for refurbishment and repair of the steam turbine engine components like vanes and blades
 
@@ -34,7 +34,7 @@ Bahauddin Zakariya University (BZU)[Publication](https://www.bzu.edu.pk/), Multa
 -	Designed and characterized BCC high and medium entropy alloys (HEAs & MEAs) for biomedical applications, by tailoring composition and microstructure to improve ductility of TiZrNbMoTa alloy system, utilizing arc melting, powder metallurgy, and spark plasma sintering. Reported first in-vivo examination of a HEA in skeletal muscle of mice.
 -	Explored cold sintering of ceramics and nanocomposites for waste immobilization and biomedical applications. Deviced a new way of sintering ceramics like Hydroxyapatite, Alumina, Zeolite, Bio–rGO, and Zirconia at as low a temperature as 150o C that can be used to capture radioactive ions for nuclear waste management.
 
-**Visiting Researcher | Nuclear Fuel Materials Lab (NFML)[Publication](https://fuel.kaist.ac.kr/), NQE | KAIST, South Korea (Feb 2018-Aug 2018)**
+**Visiting Researcher | Nuclear Fuel Materials Lab [(NFML)](https://fuel.kaist.ac.kr/), NQE | KAIST, South Korea (Feb 2018-Aug 2018)**
 -	Prepared TiZrNbMoTa HEAs using mechanical alloying and spark plasma sintering.
 -	Utilized Spark Plasma Sintering and Cold Sintering techniques for ceramics composites.
 
@@ -44,7 +44,7 @@ Bahauddin Zakariya University (BZU)[Publication](https://www.bzu.edu.pk/), Multa
 -	Conducted Nanotechnology and Materials Engineering Labs for senior and sophomore students.
 -	Co-supervised final-year design projects.
 
-**Lab Instructor | Physics Department Lahore University of Management Sciences | LUMS[Publication](https://lums.edu.pk/), Pakistan (Oct 2015 – Dec 2015)**
+**Lab Instructor | Physics Department Lahore University of Management Sciences | [(LUMS)](https://lums.edu.pk/), Pakistan (Oct 2015 – Dec 2015)**
 -	Conducted Phy-100 lab for Fall 2015 as one of the instructors on innovative physics experiments.
 -	Updated student helping manuals and organized the 3rd annual open house in Fall 2015 at the Physics department with the physics lab team at LUMS Lahore, Pakistan.
 
@@ -57,41 +57,42 @@ Bahauddin Zakariya University (BZU)[Publication](https://www.bzu.edu.pk/), Multa
 
 -	**M. Akmal**, Dong-Soo Kang, Hyungsoo Lee, Dae Won Yun, Hi Won Jeong, Young-Soo Yoo, Seong-Moon Seo, Understanding the Metal-Mold interfacial reactions during directional solidification of superalloys-A case study for Hf-containing Nickel-based Superalloys, under review in Journal of Alloys and Compounds
   
--	Wonjong Jeong, Young-Bum Chun, Suk Hoon Kang, Chang Kyu Rhee, Chang Hyoung Yoo, Seongjin Yoo, Hongmul Kim, **M. Akmal**, Ho Jin Ryu, Enhancement of strength and ductile-brittle transition temperature of SA508 Gr.3 low-alloy steel by controlling heat accumulation in laser powder directed energy deposition, Accepted, Journal of Materials Science & Technology (IF 10.9)
+-	Wonjong Jeong, Young-Bum Chun, Suk Hoon Kang, Chang Kyu Rhee, Chang Hyoung Yoo, Seongjin Yoo, Hongmul Kim, **M. Akmal**, Ho Jin Ryu, Enhancement of strength and ductile-brittle transition temperature of SA508 Gr.3 low-alloy steel by controlling heat accumulation in laser powder directed energy deposition, Accepted, [Journal of Materials Science & Technology](https://www.sciencedirect.com/science/article/pii/S1005030224003219) (IF 10.9)
   
--	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, Materials Chemistry and Physics, 315(2024)129037 (IF 4.6)
+-	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [Materials Chemistry and Physics, 315(2024)129037](https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)
 	
--	**M. Akmal**, Wonjong Jeong, Ho Jin Ryu, Ti-Zr-Nb based BCC Alloy containing Mo Prepared by Laser Directed Energy Deposition—ω Phase and Cellular Structure, Journal of Alloys and Compounds, 969(2023)172306 (IF 6.2)
+-	**M. Akmal**, Wonjong Jeong, Ho Jin Ryu, Ti-Zr-Nb based BCC Alloy containing Mo Prepared by Laser Directed Energy Deposition—ω Phase and Cellular Structure, [Journal of Alloys and Compounds, 969(2023)172306](https://doi.org/10.1016/j.jallcom.2023.172306) (IF 6.2)
 	
--	**M. Akmal**, Hyeongjin Kim, Van Cong Phan, Thanh Thuong Do, Sung-Tae Hong, Ho Jin Ryu, Achieving Superior Strength and Elongation from Electrically Assisted Pressure Joining of Medium Entropy Alloy and Ti-6Al-4V, Scripta Materialia, 239(2023)115781 (IF 6)
+-	**M. Akmal**, Hyeongjin Kim, Van Cong Phan, Thanh Thuong Do, Sung-Tae Hong, Ho Jin Ryu, Achieving Superior Strength and Elongation from Electrically Assisted Pressure Joining of Medium Entropy Alloy and Ti-6Al-4V, [Scripta Materialia, 239(2023)115781](https://doi.org/10.1016/j.scriptamat.2023.115781) (IF 6)
   
--	TS Chee, S Lee, WJ Ng, **M. Akmal**, Ho Jin Ryu, Bi0–Reduced Graphene Oxide Composites for the Enhanced Capture and Cold Immobilization of Off-Gas Radioactive Iodine, ACS Applied Materials & Interfaces, 15(2023)40438-450 (IF 9.5)
+-	TS Chee, S Lee, WJ Ng, **M. Akmal**, Ho Jin Ryu, Bi0–Reduced Graphene Oxide Composites for the Enhanced Capture and Cold Immobilization of Off-Gas Radioactive Iodine, [ACS Applied Materials & Interfaces, 15(2023)40438-450](https://pubs.acs.org/doi/full/10.1021/acsami.3c06761) (IF 9.5)
 
--	S Lee, Y Kim, **M. Akmal**, Ho Jin Ryu, Effects of Cold Sintering on the Performance of Zeolite 13X as a Consolidated Adsorbent for Cesium, ACS Applied Materials & Interfaces, 15(2023)36489-499 (IF 9.5)
+-	S Lee, Y Kim, **M. Akmal**, Ho Jin Ryu, Effects of Cold Sintering on the Performance of Zeolite 13X as a Consolidated Adsorbent for Cesium, [ACS Applied Materials & Interfaces, 15(2023)36489-499](https://pubs.acs.org/doi/full/10.1021/acsami.3c08628) (IF 9.5)
 
--	**M. Akmal**, Hyun Woo Seong, Ho Jin Ryu, Mo and Ta Addition in NbTiZr Medium Entropy Alloy to Overcome Tensile Yield Strength-Ductility Trade-off, Journal of Materials Science & Technology, 109(2022)176-185 (IF 10.9)
+-	**M. Akmal**, Hyun Woo Seong, Ho Jin Ryu, Mo and Ta Addition in NbTiZr Medium Entropy Alloy to Overcome Tensile Yield Strength-Ductility Trade-off, [Journal of Materials Science & Technology, 109(2022)176-185](https://www.sciencedirect.com/science/article/pii/S1005030221009403) (IF 10.9)
 
--	**M. Akmal**, A. Hussain, M. Afzal, Young-Ik Lee, Ho Jin Ryu, Systematic Study of (MoTa)xNbTiZr Medium and High Entropy Alloys for Biomedical Implants- In Vivo Biocompatibility Examination, Journal of Materials Science & Technology, 78(2021)183-191 (IF 10.9)
+-	**M. Akmal**, A. Hussain, M. Afzal, Young-Ik Lee, Ho Jin Ryu, Systematic Study of (MoTa)xNbTiZr Medium and High Entropy Alloys for Biomedical Implants- In Vivo Biocompatibility Examination, [Journal of Materials Science & Technology, 78(2021)183-191](https://www.sciencedirect.com/science/article/pii/S1005030220309701) (IF 10.9)
 
--	**M. Akmal**, Hyung-Ki Park, Ho Jin Ryu, Plasma Spheroidized MoNbTaTiZr High Entropy Alloy Showing Improved Plasticity, Materials Chemistry and Physics, 24 July (2021) 125060 (IF 4.6)
+-	**M. Akmal**, Hyung-Ki Park, Ho Jin Ryu, Plasma Spheroidized MoNbTaTiZr High Entropy Alloy Showing Improved Plasticity, [Materials Chemistry and Physics, 24 July (2021) 125060](https://doi.org/10.1016/j.matchemphys.2021.125060) (IF 4.6)
 
--	**M. Akmal**, Muhmood-ul Hassan, M. Afzal, Ho Jin Ryu, Novel Approach to Sintering Hydroxyapatite-Alumina Nanocomposites at 300 °C,  Materials Chemistry and Physics,  260 (2021) 124187 (IF 4.6)
+-	**M. Akmal**, Muhmood-ul Hassan, M. Afzal, Ho Jin Ryu, Novel Approach to Sintering Hydroxyapatite-Alumina Nanocomposites at 300 °C,  [Materials Chemistry and Physics,  260 (2021) 124187](https://www.sciencedirect.com/science/article/pii/S0254058420315479) (IF 4.6)
 
--	M. Hassan, **M. Akmal**, Ho Jin Ryu, Cold sintering of as-dried nanostructured calcium hydroxyapatite without using additives, Journal of Materials Research and Technology, 11 (2021) 811-822  (IF 6.267)
+-	M. Hassan, **M. Akmal**, Ho Jin Ryu, Cold sintering of as-dried nanostructured calcium hydroxyapatite without using additives, [Journal of Materials Research and Technology, 11 (2021) 811-822](https://www.sciencedirect.com/science/article/pii/S2238785421000624)  (IF 6.267)
 
--	**M. Akmal***, A. Raza, M. Mudasser Khan, M. Imran Khan, M. A. Hussain, Effect of nano-hydroxyapatite reinforcement in mechanically alloyed NiTi composites for biomedical implant, Materials Science and Engineering C, 68 (2016) 30-36 (IF 7.9)
+-	**M. Akmal***, A. Raza, M. Mudasser Khan, M. Imran Khan, M. A. Hussain, Effect of nano-hydroxyapatite reinforcement in mechanically alloyed NiTi composites for biomedical implant, [Materials Science and Engineering C, 68 (2016) 30-36](http://www.sciencedirect.com/science/article/pii/S0928493116305252) (IF 7.9)
 
--	**M. Akmal***, M. A. Hussain, H. Ikram, T. Sattar, S. Jameel, J. Y. Kim, F. A. Khalid, J. W. Kim, In-vitro electrochemical and bioactivity evaluation of SS316L reinforced hydroxyapatite functionally graded materials fabricated for biomedical implants, Ceramics International, 42 (2016) 3855–3863 (IF 5.532)
+-	**M. Akmal***, M. A. Hussain, H. Ikram, T. Sattar, S. Jameel, J. Y. Kim, F. A. Khalid, J. W. Kim, In-vitro electrochemical and bioactivity evaluation of SS316L reinforced hydroxyapatite functionally graded materials fabricated for biomedical implants, [Ceramics International, 42 (2016) 3855–3863](http://www.sciencedirect.com/science/article/pii/S0272884215021495) (IF 5.532)
 
--	**M. Akmal***, F. A. Khalid, M. A. Hussain, Interfacial diffusion reaction and mechanical characterization of 316L stainless steel-hydroxyapatite functionally graded materials for joint prostheses, Ceramics International, 41 (2015) 14458–14467 (IF 5.532))
+-	**M. Akmal***, F. A. Khalid, M. A. Hussain, Interfacial diffusion reaction and mechanical characterization of 316L stainless steel-hydroxyapatite functionally graded materials for joint prostheses, [Ceramics International, 41 (2015) 14458–14467](http://www.sciencedirect.com/science/article/pii/S0272884215013723) (IF 5.532))
 
--	M. Afzal, J. Park, Jessie Jeon, **M. Akmal**, Tae-Sung Yoon, Hyung Jin Sung, Acoustofluidic Separation of Proteins using Aptamer-Functionalized Microparticles,  Analytical Chemistry 93 (2021) 8309-8317 (IF 8.008)
+-	M. Afzal, J. Park, Jessie Jeon, **M. Akmal**, Tae-Sung Yoon, Hyung Jin Sung, Acoustofluidic Separation of Proteins using Aptamer-Functionalized Microparticles,  [Analytical Chemistry 93 (2021) 8309-8317](https://pubs.acs.org/doi/10.1021/acs.analchem.1c01198) (IF 8.008)
 
--	H. Ikram, F. A. Khalid, **M. Akmal***, Z. Abbas, Effect of Copper and Zirconium addition on Properties of Fe-Co-Si-B-Nb Bulk Metallic Glasses, Journal of Materials Engineering and Performance, 26 (2017) 3144–3150 (IF 2.099)
+-	H. Ikram, F. A. Khalid, **M. Akmal***, Z. Abbas, Effect of Copper and Zirconium addition on Properties of Fe-Co-Si-B-Nb Bulk Metallic Glasses, [Journal of Materials Engineering and Performance, 26 (2017) 3144–3150](https://link.springer.com/article/10.1007/s11665-017-2753-0) (IF 2.099)
 
--	Tahir Sattar, Tareq Manzoor, F. A. Khalid, **M. Akmal**, Ghazanfar Saeed, Improved in-vitro bioactivity and electrochemical behavior of hydroxyapatite-coated NiTi shape memory alloy, Journal of Materials Science, 54 (2019) 7300-7306, (IF 4.220)
+-	Tahir Sattar, Tareq Manzoor, F. A. Khalid, **M. Akmal**, Ghazanfar Saeed, Improved in-vitro bioactivity and electrochemical behavior of hydroxyapatite-coated NiTi shape memory alloy, [Journal of Materials Science, 54 (2019) 7300-7306](https://link.springer.com/article/10.1007/s10853-018-03304-8#citeas) (IF 4.220)
 
 **Under submission**
+
 -	**M. Akmal**, Aamir Malik, Dinesh Samoya, Hyun Woo Seong, Jennifer Shin, Ho Jin Ryu, Controllable gradient Interface in High Entropy Alloy Reinforced Ti-Nb-Zr Heterostructure Alloys for Biomedical Implants—Mechanical and Biocompatibility Evaluation, to be submitted to Journal of Materials Science and Technology
 
 -	**M. Akmal**, Levin Sebastian Cahyaputra, Wonjong Jeong, Ho Jin Ryu, Inducing Gum Metal Traits to Ti-Zr-Nb Beta-Ti Alloys through Oxygen Inclusion in Laser-Directed Energy Deposition, to be submitted to Additive Manufacturing
