@@ -163,3 +163,6 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 
 **Executive Member of Graduate Students Society, GIKI, Pakistan  (Jan 2013- Dec 2014)**
 -	Participated in organizing and facilitating seminars, workshops, and trips, while diligently maintaining comprehensive records of the events.
+
+## Graphical Abstracts of Key Studies
+![Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling](JALCOM.jpg)
