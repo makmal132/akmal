@@ -59,9 +59,11 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
   
 -	Wonjong Jeong, Young-Bum Chun, Suk Hoon Kang, Chang Kyu Rhee, Chang Hyoung Yoo, Seongjin Yoo, Hongmul Kim, **M. Akmal**, Ho Jin Ryu, Enhancement of strength and ductile-brittle transition temperature of SA508 Gr.3 low-alloy steel by controlling heat accumulation in laser powder directed energy deposition, Accepted, [Journal of Materials Science & Technology](https://www.sciencedirect.com/science/article/pii/S1005030224003219) (IF 10.9)
   
--	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [Materials Chemistry and Physics, 315(2024)129037](https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)![](JMST1.jpg)
+-	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [Materials Chemistry and Physics, 315(2024)129037](https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)
+  ![Graphical](JMST1.jpg)
 	
--	**M. Akmal**, Wonjong Jeong, Ho Jin Ryu, Ti-Zr-Nb based BCC Alloy containing Mo Prepared by Laser Directed Energy Deposition—ω Phase and Cellular Structure, [Journal of Alloys and Compounds, 969(2023)172306](https://doi.org/10.1016/j.jallcom.2023.172306) (IF 6.2)![](JALCOM.jpg)
+-	**M. Akmal**, Wonjong Jeong, Ho Jin Ryu, Ti-Zr-Nb based BCC Alloy containing Mo Prepared by Laser Directed Energy Deposition—ω Phase and Cellular Structure, [Journal of Alloys and Compounds, 969(2023)172306](https://doi.org/10.1016/j.jallcom.2023.172306) (IF 6.2)
+  ![Graphical](JALCOM.jpg)
 	
 -	**M. Akmal**, Hyeongjin Kim, Van Cong Phan, Thanh Thuong Do, Sung-Tae Hong, Ho Jin Ryu, Achieving Superior Strength and Elongation from Electrically Assisted Pressure Joining of Medium Entropy Alloy and Ti-6Al-4V, [Scripta Materialia, 239(2023)115781](https://doi.org/10.1016/j.scriptamat.2023.115781) (IF 6)
   
