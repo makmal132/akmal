@@ -60,20 +60,23 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Wonjong Jeong, Young-Bum Chun, Suk Hoon Kang, Chang Kyu Rhee, Chang Hyoung Yoo, Seongjin Yoo, Hongmul Kim, **M. Akmal**, Ho Jin Ryu, Enhancement of strength and ductile-brittle transition temperature of SA508 Gr.3 low-alloy steel by controlling heat accumulation in laser powder directed energy deposition, Accepted, [Journal of Materials Science & Technology](https://www.sciencedirect.com/science/article/pii/S1005030224003219) (IF 10.9)
   
 -	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [Materials Chemistry and Physics, 315(2024)129037](https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)
-  ![Graphical](JMST1.jpg)
+  ![Graphical](MCPAM.jpg)
 	
 -	**M. Akmal**, Wonjong Jeong, Ho Jin Ryu, Ti-Zr-Nb based BCC Alloy containing Mo Prepared by Laser Directed Energy Deposition—ω Phase and Cellular Structure, [Journal of Alloys and Compounds, 969(2023)172306](https://doi.org/10.1016/j.jallcom.2023.172306) (IF 6.2)
   ![Graphical](JALCOM.jpg)
 	
 -	**M. Akmal**, Hyeongjin Kim, Van Cong Phan, Thanh Thuong Do, Sung-Tae Hong, Ho Jin Ryu, Achieving Superior Strength and Elongation from Electrically Assisted Pressure Joining of Medium Entropy Alloy and Ti-6Al-4V, [Scripta Materialia, 239(2023)115781](https://doi.org/10.1016/j.scriptamat.2023.115781) (IF 6)
+  ![Graphical](scripta2.jpg)
   
 -	TS Chee, S Lee, WJ Ng, **M. Akmal**, Ho Jin Ryu, Bi0–Reduced Graphene Oxide Composites for the Enhanced Capture and Cold Immobilization of Off-Gas Radioactive Iodine, [ACS Applied Materials & Interfaces, 15(2023)40438-450](https://pubs.acs.org/doi/full/10.1021/acsami.3c06761) (IF 9.5)
 
 -	S Lee, Y Kim, **M. Akmal**, Ho Jin Ryu, Effects of Cold Sintering on the Performance of Zeolite 13X as a Consolidated Adsorbent for Cesium, [ACS Applied Materials & Interfaces, 15(2023)36489-499](https://pubs.acs.org/doi/full/10.1021/acsami.3c08628) (IF 9.5)
 
 -	**M. Akmal**, Hyun Woo Seong, Ho Jin Ryu, Mo and Ta Addition in NbTiZr Medium Entropy Alloy to Overcome Tensile Yield Strength-Ductility Trade-off, [Journal of Materials Science & Technology, 109(2022)176-185](https://www.sciencedirect.com/science/article/pii/S1005030221009403) (IF 10.9)
+  ![Graphical](JMST2.jpg)
 
 -	**M. Akmal**, A. Hussain, M. Afzal, Young-Ik Lee, Ho Jin Ryu, Systematic Study of (MoTa)xNbTiZr Medium and High Entropy Alloys for Biomedical Implants- In Vivo Biocompatibility Examination, [Journal of Materials Science & Technology, 78(2021)183-191](https://www.sciencedirect.com/science/article/pii/S1005030220309701) (IF 10.9)
+   ![Graphical](JMST1.jpg)
 
 -	**M. Akmal**, Hyung-Ki Park, Ho Jin Ryu, Plasma Spheroidized MoNbTaTiZr High Entropy Alloy Showing Improved Plasticity, [Materials Chemistry and Physics, 24 July (2021) 125060](https://doi.org/10.1016/j.matchemphys.2021.125060) (IF 4.6)
 
