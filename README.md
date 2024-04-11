@@ -8,20 +8,20 @@
 ## EDUCATION 
 
 #### Ph.D. in Materials Science and Engineering (2018 – 2022)
-Korea Advanced Institute of Science and Technology (KAIST)(https://www.kaist.ac.kr/en/), Daejeon, South Korea
+Korea Advanced Institute of Science and Technology (KAIST)[Publication](https://www.kaist.ac.kr/en/), Daejeon, South Korea
   **Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
   **Supervisor**: Prof. Ho Jin Ryu
   
 #### MS in Nanotechnology and Materials Engineering (2013 – 2015)
-GIK Institute of Engineering Sciences and Technology (GIKI)(https://www.giki.edu.pk/), Topi, 23460, Pakistan
+GIK Institute of Engineering Sciences and Technology (GIKI)[Publication](https://www.giki.edu.pk/), Topi, 23460, Pakistan
 **Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants. Supervisor: Prof. Fazal Ahmad Khalid
 
 #### B.Sc in Metallurgy and Materials Engineering (2008 – 2012)
-Bahauddin Zakariya University (BZU)(https://www.bzu.edu.pk/), Multan, Pakistan
+Bahauddin Zakariya University (BZU)[Publication](https://www.bzu.edu.pk/), Multan, Pakistan
 **FYP**: Effect of Ni on Hypo-eutectoid Steels
 
 ## PROFESSIONAL CAREER 
-**Senior Researcher | Department of High-Temperature Materials | KIMS(https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Date)**
+**Senior Researcher | Department of High-Temperature Materials | KIMS[Publication](https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Date)**
 -	Investigated metal-mold reactions and related MC carbide growth in directionally solidified Ni-based superalloys (CM247LC; CMSX-4; GTD-111; René N5; IN738) for improvement in the casting processes. 
 -	Examining laser welding of dissimilar (Hastelloy-X and Inconel 939) superalloys for refurbishment and repair of the steam turbine engine components like vanes and blades
 
@@ -34,7 +34,7 @@ Bahauddin Zakariya University (BZU)(https://www.bzu.edu.pk/), Multan, Pakistan
 -	Designed and characterized BCC high and medium entropy alloys (HEAs & MEAs) for biomedical applications, by tailoring composition and microstructure to improve ductility of TiZrNbMoTa alloy system, utilizing arc melting, powder metallurgy, and spark plasma sintering. Reported first in-vivo examination of a HEA in skeletal muscle of mice.
 -	Explored cold sintering of ceramics and nanocomposites for waste immobilization and biomedical applications. Deviced a new way of sintering ceramics like Hydroxyapatite, Alumina, Zeolite, Bio–rGO, and Zirconia at as low a temperature as 150o C that can be used to capture radioactive ions for nuclear waste management.
 
-**Visiting Researcher | Nuclear Fuel Materials Lab (NFML)(https://fuel.kaist.ac.kr/), NQE | KAIST, South Korea (Feb 2018-Aug 2018)**
+**Visiting Researcher | Nuclear Fuel Materials Lab (NFML)[Publication](https://fuel.kaist.ac.kr/), NQE | KAIST, South Korea (Feb 2018-Aug 2018)**
 -	Prepared TiZrNbMoTa HEAs using mechanical alloying and spark plasma sintering.
 -	Utilized Spark Plasma Sintering and Cold Sintering techniques for ceramics composites.
 
@@ -44,7 +44,7 @@ Bahauddin Zakariya University (BZU)(https://www.bzu.edu.pk/), Multan, Pakistan
 -	Conducted Nanotechnology and Materials Engineering Labs for senior and sophomore students.
 -	Co-supervised final-year design projects.
 
-**Lab Instructor | Physics Department Lahore University of Management Sciences | LUMS(https://lums.edu.pk/), Pakistan (Oct 2015 – Dec 2015)**
+**Lab Instructor | Physics Department Lahore University of Management Sciences | LUMS[Publication](https://lums.edu.pk/), Pakistan (Oct 2015 – Dec 2015)**
 -	Conducted Phy-100 lab for Fall 2015 as one of the instructors on innovative physics experiments.
 -	Updated student helping manuals and organized the 3rd annual open house in Fall 2015 at the Physics department with the physics lab team at LUMS Lahore, Pakistan.
 
