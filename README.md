@@ -26,7 +26,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Investigated metal-mold reactions and related MC carbide growth in directionally solidified Ni-based superalloys (CM247LC; CMSX-4; GTD-111; René N5; IN738) for improvement in the casting processes. 
 -	Examining laser welding of dissimilar (Hastelloy-X and Inconel 939) superalloys for refurbishment and repair of the steam turbine engine components like vanes and blades
 
-**Postdoctoral Researcher | Nuclear Fuel Materials Lab (NFML) | [(KAIST)](https://www.kaist.ac.kr/en/), South Korea (Sep 2022- Sep 2023)**
+**Postdoctoral Researcher | Mechanical Engineering Research Institute | [(KAIST)](https://www.kaist.ac.kr/en/), South Korea (Sep 2022- Sep 2023)**
 -	Designed and analyzed additive manufacturing of BCC medium entropy alloys (MEAs)/ β-Ti alloys using DED; among the first studies reported that utilized DED for β-Ti alloys and achieved significant mechanical properties.
 -	Implemented electrically assisted pressured joining techniques for dissimilar alloys: Ti64-(TiZrNb)MoTa0.1 MEAs for potential application in making blisks (bladed disks) of turbine engines.
 	Supervised and mentored a senior-year undergraduate student of MSE for the final-year project.
