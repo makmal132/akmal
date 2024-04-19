@@ -9,17 +9,17 @@
 
 #### Ph.D. in Materials Science and Engineering (2018 – 2022)
 Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea
--	**Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
--	**Supervisor**: Prof. [Ho Jin Ryu](https://fuel.kaist.ac.kr/index.php?mid=sub0101)
+	**Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
+	**Supervisor**: Prof. [Ho Jin Ryu](https://fuel.kaist.ac.kr/index.php?mid=sub0101)
   
 #### MS in Nanotechnology and Materials Engineering (2013 – 2015)
 GIK Institute of Engineering Sciences and Technology [(GIKI)](https://www.giki.edu.pk/), Topi, 23460, Pakistan
--	**Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants.
--	Supervisor: Prof. [Fazal Ahmad Khalid](https://en.wikipedia.org/wiki/Fazal_Ahmad_Khalid)
+	**Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants.
+	Supervisor: Prof. [Fazal Ahmad Khalid](https://en.wikipedia.org/wiki/Fazal_Ahmad_Khalid)
 
 #### B.Sc in Metallurgy and Materials Engineering (2008 – 2012)
 Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
--	**FYP**: Effect of Ni on Hypo-eutectoid Steels
+	**FYP**: Effect of Ni on Hypo-eutectoid Steels
 
 ## PROFESSIONAL CAREER 
 **Senior Researcher | Department of High-Temperature Materials | [KIMS](https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Date)**
@@ -71,10 +71,10 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
   ![Graphical](scripta2.jpg)
   
 -	TS Chee, S Lee, WJ Ng, **M. Akmal**, Ho Jin Ryu, Bi0–Reduced Graphene Oxide Composites for the Enhanced Capture and Cold Immobilization of Off-Gas Radioactive Iodine, [**ACS Applied Materials & Interfaces**, 15(2023)40438-450](https://pubs.acs.org/doi/full/10.1021/acsami.3c06761) (IF 9.5)
-  ![Graphical](ACSScott.JPEG)
+  ![Graphical](ACSScott.jpeg)
 
 -	S Lee, Y Kim, **M. Akmal**, Ho Jin Ryu, Effects of Cold Sintering on the Performance of Zeolite 13X as a Consolidated Adsorbent for Cesium, [**ACS Applied Materials & Interfaces**, 15(2023)36489-499](https://pubs.acs.org/doi/full/10.1021/acsami.3c08628) (IF 9.5)
-  ![Graphical](ACSSu.JPEG)
+  ![Graphical](ACSSu.jpeg)
 
 -	**M. Akmal**, Hyun Woo Seong, Ho Jin Ryu, Mo and Ta Addition in NbTiZr Medium Entropy Alloy to Overcome Tensile Yield Strength-Ductility Trade-off, [**Journal of Materials Science & Technology**, 109(2022)176-185](https://www.sciencedirect.com/science/article/pii/S1005030221009403) (IF 10.9)
   ![Graphical](JMST2.jpg)
@@ -98,7 +98,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	**M. Akmal***, F. A. Khalid, M. A. Hussain, Interfacial diffusion reaction and mechanical characterization of 316L stainless steel-hydroxyapatite functionally graded materials for joint prostheses, [**Ceramics International**, 41 (2015) 14458–14467](http://www.sciencedirect.com/science/article/pii/S0272884215013723) (IF 5.532))
 
 -	M. Afzal, J. Park, Jessie Jeon, **M. Akmal**, Tae-Sung Yoon, Hyung Jin Sung, Acoustofluidic Separation of Proteins using Aptamer-Functionalized Microparticles,  [**Analytical Chemistry** 93 (2021) 8309-8317](https://pubs.acs.org/doi/10.1021/acs.analchem.1c01198) (IF 8.008)
-  ![Graphical](AC.JPEG)
+  ![Graphical](AC.jpeg)
 
 -	H. Ikram, F. A. Khalid, **M. Akmal***, Z. Abbas, Effect of Copper and Zirconium addition on Properties of Fe-Co-Si-B-Nb Bulk Metallic Glasses, [**Journal of Materials Engineering and Performance**, 26 (2017) 3144–3150](https://link.springer.com/article/10.1007/s11665-017-2753-0) (IF 2.099)
 
