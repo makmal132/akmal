@@ -1,5 +1,5 @@
 # Materials Scientist/  R&D
-#### +82-010-7545-1991
+#### +82-10-7545-1991
 #### muhammad.akmal@alumni.kaist.ac.kr
 
 ## OBJECTIVE STATEMENT
