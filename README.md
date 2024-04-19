@@ -61,7 +61,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Wonjong Jeong, Young-Bum Chun, Suk Hoon Kang, Chang Kyu Rhee, Chang Hyoung Yoo, Seongjin Yoo, Hongmul Kim, **M. Akmal**, Ho Jin Ryu, Enhancement of strength and ductile-brittle transition temperature of SA508 Gr.3 low-alloy steel by controlling heat accumulation in laser powder directed energy deposition, Accepted, [**Journal of Materials Science & Technology**](https://www.sciencedirect.com/science/article/pii/S1005030224003219) (IF 10.9)
  ![Graphical](JMSRWJ.jpg)
   
--	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [**Materials Chemistry and Physics, 315(2024)129037]**(https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)
+-	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [**Materials Chemistry and Physics**, 315(2024)129037](https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)
   ![Graphical](MCPAM.jpg)
 	
 -	**M. Akmal**, Wonjong Jeong, Ho Jin Ryu, Ti-Zr-Nb based BCC Alloy containing Mo Prepared by Laser Directed Energy Deposition—ω Phase and Cellular Structure, [**Journal of Alloys and Compounds**, 969(2023)172306](https://doi.org/10.1016/j.jallcom.2023.172306) (IF 6.2)
