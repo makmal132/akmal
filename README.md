@@ -9,28 +9,29 @@
 
 #### Ph.D. in Materials Science and Engineering (2018 – 2022)
 Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-  **Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
-  **Supervisor**: Prof. Ho Jin Ryu
+	**Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
+	**Supervisor**: Prof. [Ho Jin Ryu](https://fuel.kaist.ac.kr/index.php?mid=sub0101)
   
 #### MS in Nanotechnology and Materials Engineering (2013 – 2015)
 GIK Institute of Engineering Sciences and Technology [(GIKI)](https://www.giki.edu.pk/), Topi, 23460, Pakistan
-**Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants. Supervisor: Prof. Fazal Ahmad Khalid
+	**Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants.
+ 	Supervisor: Prof. [Fazal Ahmad Khalid](https://en.wikipedia.org/wiki/Fazal_Ahmad_Khalid)
 
 #### B.Sc in Metallurgy and Materials Engineering (2008 – 2012)
 Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
-**FYP**: Effect of Ni on Hypo-eutectoid Steels
+	**FYP**: Effect of Ni on Hypo-eutectoid Steels
 
 ## PROFESSIONAL CAREER 
 **Senior Researcher | Department of High-Temperature Materials | [KIMS](https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Date)**
 -	Investigated metal-mold reactions and related MC carbide growth in directionally solidified Ni-based superalloys (CM247LC; CMSX-4; GTD-111; René N5; IN738) for improvement in the casting processes. 
 -	Examining laser welding of dissimilar (Hastelloy-X and Inconel 939) superalloys for refurbishment and repair of the steam turbine engine components like vanes and blades
 
-**Postdoctoral Researcher | Nuclear Fuel Materials Lab (NFML) | KAIST, South Korea (Sep 2022- Sep 2023)**
+**Postdoctoral Researcher | Nuclear Fuel Materials Lab (NFML) | [(KAIST)](https://www.kaist.ac.kr/en/), South Korea (Sep 2022- Sep 2023)**
 -	Designed and analyzed additive manufacturing of BCC medium entropy alloys (MEAs)/ β-Ti alloys using DED; among the first studies reported that utilized DED for β-Ti alloys and achieved significant mechanical properties.
 -	Implemented electrically assisted pressured joining techniques for dissimilar alloys: Ti64-(TiZrNb)MoTa0.1 MEAs for potential application in making blisks (bladed disks) of turbine engines.
 	Supervised and mentored a senior-year undergraduate student of MSE for the final-year project.
 
-**Research Assistant|Nuclear Fuel Materials Lab (NFML), NQE | KAIST, South Korea (Aug 2018-Aug 2022)**
+**Research Assistant|Nuclear Fuel Materials Lab [(NFML)](https://fuel.kaist.ac.kr/), NQE | KAIST, South Korea (Aug 2018-Aug 2022)**
 -	Designed and characterized BCC high and medium entropy alloys (HEAs & MEAs) for biomedical applications, by tailoring composition and microstructure to improve ductility of TiZrNbMoTa alloy system, utilizing arc melting, powder metallurgy, and spark plasma sintering. Reported first in-vivo examination of a HEA in skeletal muscle of mice.
 -	Explored cold sintering of ceramics and nanocomposites for waste immobilization and biomedical applications. Deviced a new way of sintering ceramics like Hydroxyapatite, Alumina, Zeolite, Bio–rGO, and Zirconia at as low a temperature as 150o C that can be used to capture radioactive ions for nuclear waste management.
 
@@ -38,7 +39,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Prepared TiZrNbMoTa HEAs using mechanical alloying and spark plasma sintering.
 -	Utilized Spark Plasma Sintering and Cold Sintering techniques for ceramics composites.
 
-**Materials Engineer | GIK Institute of Engineering Sciences and Technology | GIKI, Pakistan (Jan 2016 – Aug 2017)**
+**Materials Engineer | GIK Institute of Engineering Sciences and Technology | [(GIKI)](https://www.giki.edu.pk/), Pakistan (Jan 2016 – Aug 2017)**
 -	Official Lab operator of Atomic Force Microscopy for nanofilms, nanocomposites, and sensors.
 -	Assisted in undergraduate courses: MM222 (Strength of Materials), MM231 (Phase Equilibria), MM221 (Materials Evaluation Techniques), MM463 (Electronics and Magnetic Materials), and MM451 (Corrosion and Protection).
 -	Conducted Nanotechnology and Materials Engineering Labs for senior and sophomore students.
@@ -48,7 +49,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Conducted Phy-100 lab for Fall 2015 as one of the instructors on innovative physics experiments.
 -	Updated student helping manuals and organized the 3rd annual open house in Fall 2015 at the Physics department with the physics lab team at LUMS Lahore, Pakistan.
 
-**Graduate Assistant | GIK Institute of Engineering Sciences and Technology | GIKI, Pakistan (Jan 2013 – Jan 2015)**
+**Graduate Assistant | GIK Institute of Engineering Sciences and Technology | [(GIKI)](https://www.giki.edu.pk/), Pakistan (Jan 2013 – Jan 2015)**
 -	Conducted labs for freshmen, junior, and senior students: Introductory lab to Materials Engineering (MM141L); Polymer Science & Engineering (MM345L); Metallography, Heat Treatment and Casting (MM344L); Powder Metallurgy (MM447L); and, Sintering Techniques & Composite Fabrication (MM446L)
 -	Assisted professors in teaching courses: Industrial Chemistry (MM101) and Introduction to Engineering Materials (MM102)
 -	Projects: Micro-structural modifications in low carbon steels by cyclic heat treatment;	Indigenous designing and fabrication of Arc Discharge setup for CNTs synthesis; 	Growth of CNTs using ACCVD; Effect of Cu addition on NiTiPt high-temperature shape memory alloys; Nano-Hydroxyapatite reinforcement in NiTi by Mechanical Alloying
@@ -134,18 +135,18 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 
 ## TECHNICAL EQUIPMENT PROFICIENCY 
 
--	Scanning Electron Microscopy (Certified user of Quattro S, FEI; SU5000, Hitachi; and, Magellan 400, FIE at KARA)
+-	Scanning Electron Microscopy (Certified user of Quattro S, FEI; SU5000, Hitachi; and, Magellan 400, FIE at [KARA](https://kara.kaist.ac.kr/main/mainPage.do))
 -	Electron Backscattered Diffraction (Certified user of JIB-4601, JSM-7800 and JSM-7001F, Jeol at KIMS)
--	X-Ray Diffraction (Certified user of BrukerX at KARA)
--	Transmission Electron Microscopy (Certified user of Tecnai G2 F30 S-Twin (300kV) at KARA)
+-	X-Ray Diffraction (Certified user of BrukerX at [KARA](https://kara.kaist.ac.kr/main/mainPage.do))
+-	Transmission Electron Microscopy (Certified user of Tecnai G2 F30 S-Twin (300kV) at [KARA](https://kara.kaist.ac.kr/main/mainPage.do))
 -	Atomic Force Microscopy (Official operator (at GIKI) of Flex AFM, Nanosurf for 1.5 years. Acquired training of Multimode 8 ,Bruker for imaging and quantum nano-mechanical mapping at the University of Toronto)
--	Nanoindentation (Hysitron TI Premier, BrukerX, Trained at NQE, KAIST)
+-	Nanoindentation (Hysitron TI Premier, BrukerX, Trained at [NQE](https://nuclear.kaist.ac.kr/eng/), KAIST)
 -	Conventional and Spark Plasma sintering (Expert user; Expertise acquired during MS and Ph.D. work)
 -	Arc Melting; Metallography; Optical Microscopy; Mechanical Testing (DIC) (Expert user)
  
 ## SOFTWARE SKILLS
 
--	Thermo-calc (Thermodynamic calculations)
+-	Thermo-calc (Thermodynamical calculations)
 -	 Origin Pro (Graphing & Data analyzing)
 -	AZtech (EDS, EBSD), TSL-OIM (EBSD)
 -	GATAN (TEM)
