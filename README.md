@@ -9,17 +9,17 @@
 
 #### Ph.D. in Materials Science and Engineering (2018 – 2022)
 Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-	**Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
-	**Supervisor**: Prof. [Ho Jin Ryu](https://fuel.kaist.ac.kr/index.php?mid=sub0101)
+-	**Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
+-	**Supervisor**: Prof. [Ho Jin Ryu](https://fuel.kaist.ac.kr/index.php?mid=sub0101)
   
 #### MS in Nanotechnology and Materials Engineering (2013 – 2015)
 GIK Institute of Engineering Sciences and Technology [(GIKI)](https://www.giki.edu.pk/), Topi, 23460, Pakistan
-	**Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants.
- 	Supervisor: Prof. [Fazal Ahmad Khalid](https://en.wikipedia.org/wiki/Fazal_Ahmad_Khalid)
+-	**Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants.
+-	Supervisor: Prof. [Fazal Ahmad Khalid](https://en.wikipedia.org/wiki/Fazal_Ahmad_Khalid)
 
 #### B.Sc in Metallurgy and Materials Engineering (2008 – 2012)
 Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
-	**FYP**: Effect of Ni on Hypo-eutectoid Steels
+-	**FYP**: Effect of Ni on Hypo-eutectoid Steels
 
 ## PROFESSIONAL CAREER 
 **Senior Researcher | Department of High-Temperature Materials | [KIMS](https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Date)**
