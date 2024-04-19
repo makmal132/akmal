@@ -89,7 +89,6 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
   ![Graphical](MCPCSP.jpg)
 
 -	M. Hassan, **M. Akmal**, Ho Jin Ryu, Cold sintering of as-dried nanostructured calcium hydroxyapatite without using additives, [**Journal of Materials Research and Technology**, 11 (2021) 811-822](https://www.sciencedirect.com/science/article/pii/S2238785421000624)  (IF 6.267)
- ![Graphical](JMRT.jpg)
  	
 -	**M. Akmal***, A. Raza, M. Mudasser Khan, M. Imran Khan, M. A. Hussain, Effect of nano-hydroxyapatite reinforcement in mechanically alloyed NiTi composites for biomedical implant, [**Materials Science and Engineering C**, 68 (2016) 30-36](http://www.sciencedirect.com/science/article/pii/S0928493116305252) (IF 7.9)
   ![Graphical](MSEC.jpg)
@@ -118,7 +117,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 **International Conferences**
 
 -	**M. Akmal**, Ho Jin Ryu, Gradient Interface in High Entropy Alloy Reinforced Ti-Nb-Zr Heterostructure Alloys for Improved Strength and Wear Resistance without Scarifying Ductility, MRS 2022, Spring Meeting, May 8-13, 2022, Hawaii, USA.
-	    ![Photo](MRS1.JPG)  ![Photo](MRS2.JPG)
+	    ![Photo](MRS1.jpg)  ![Photo](MRS2.jpg)
 
 
 -	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Reinforcing Equiatomic High Entropy Alloy in Low Elastic Modulus Ti-Nb-Zr Alloy using Powder Metallurgy Route for Biomedical Implants, International Symposium on Innovation in Materials Processing, October 26-29, 2021, Jeju/online, Korea.
@@ -128,23 +127,23 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	**M. Akmal**, Hyung-Ki Park, Ho Jin Ryu, TiZrNbMoTa High Entropy Alloys for Biomedical Implants Prepared By Powder Metallurgy Route, 16th International Symposium on Novel and Nano Materials (ISNNM), November 3-6, 2020, Jeju, Korea.
 
 -	**M. Akmal**, Ho Jin Ryu, Novel MoxNbTaxTiZr Medium and High Entropy Alloys for Biomedical Implants-A Systematic Approach to Get a Combination of Mechanical Properties, 10th Pacific Rim International Conference on Advanced Materials and Processing (PRICM10), August 18-22, 2019, Xi’an, China. 
-![Photo](PACRIM-china.JPG)
+![Photo](PACRIM-china.jpg)
 
 -	**M. Akmal**, M. Hassan, M. Afzal, Ho Jin Ryu, Osseointegration improves with nano alumina reinforcement in hydroxyapatite sintered at low temperature, The 13th Pacific Rim Conference of Ceramic Societies (PACRIM13), October 27 - November 1, 2019, Okinawa Convention Center, Japan.
 
 -	**M. Akmal**, Ho Jin Ryu, TiZrNbMoxTax (x = 0-1) High Entropy Alloys for biomedical implants- A Systematic Study, The 2nd International Conference on High-Entropy Materials, December 09-12, 2018, Jeju, South Korea.
-![Photo](ICHEM.JPG)
+![Photo](ICHEM.jpg)
 
 **Domestic Conferences Presentations (South Korea)**
 
 -	(2018-2024) Presented at Spring and Fall Meetings of the Korean Institute of Metals and Materials, South Korea
--	![Photo](KIM_conferences.JPG)
+-	![Photo](KIM_conferences.jpg)
 
 -	(2018-2023) Presented at Spring and Fall Meetings of the Korean Powder Metallurgy Institute, South Korea
--	![Photo](KPMI.PNG)
+-	![Photo](KPMI.png)
 
 -	(2019 Spring Conference) Presented at the Korean Society for Composite Materials, April 03-06, 2019, Yeosu, South Korea
--	![Photo](KSCM.JPG)
+-	![Photo](KSCM.jpg)
 
 ## TECHNICAL EQUIPMENT PROFICIENCY 
 
@@ -175,14 +174,14 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 
 **Mentor Daedeok High School, Daejeon, South Korea (Spring 2021 to Fall 2021)**
 -	Actively engaged in guiding and inspiring high school students through personalized mentorship, delivering talks, and providing demonstrations to foster their academic and personal development.
-    ![Photo](Mentor.JPG)
+    ![Photo](Mentor.jpg)
 
 **International Kitchen Representative and Student Assistant, ISSS, KAIST (Aug-2019 to Aug-2020)**
 -	Student assistant from KAIST International Scholar and Student Services to address issues of international students using common facility
 
 **Assistant Warden Hostel, GIKI, Pakistan (April 2016 – Aug 2017)**
 -	Maintained discipline within the undergraduate hostel, serving as a liaison between the residents and university administration to address their concerns, while also collaborating with the administration to ensure the effective implementation of rules and regulations
-![Photo](president.JPG)
+![Photo](president.jpg)
 
 **Executive Member of Graduate Students Society, GIKI, Pakistan  (Jan 2013- Dec 2014)**
 -	Participated in organizing and facilitating seminars, workshops, and trips, while diligently maintaining comprehensive records of the events.
