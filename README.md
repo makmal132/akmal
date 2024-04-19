@@ -137,13 +137,13 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 **Domestic Conferences Presentations (South Korea)**
 
 -	(2018-2024) Presented at Spring and Fall Meetings of the Korean Institute of Metals and Materials, South Korea
--	![Photo](KIM_conferences.jpg)
+  ![Photo](KIM_conferences.jpg)
 
 -	(2018-2023) Presented at Spring and Fall Meetings of the Korean Powder Metallurgy Institute, South Korea
--	![Photo](KPMI.png)
+  ![Photo](KPMI.png)
 
 -	(2019 Spring Conference) Presented at the Korean Society for Composite Materials, April 03-06, 2019, Yeosu, South Korea
--	![Photo](KSCM.jpg)
+  ![Photo](KSCM.jpg)
 
 ## TECHNICAL EQUIPMENT PROFICIENCY 
 
@@ -167,7 +167,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Gamry Echem Analyst (Potentiodynamic Polarization)
 -	ImageJ (Image analysis)
 
-##VOLUNTEER & MANAGERIAL EXPERIENCE
+## VOLUNTEER & MANAGERIAL EXPERIENCE
 
 **President of Pakistan Student Association, KAIST, South Korea (Aug-2020 to Aug-2021)**
 -	Spearheaded initiatives such as organizing a Food Festival stall to sponsor education in Pakistan, coordinating recreational trips for the community, and providing mentorship to incoming students and young members, fostering a vibrant and supportive environment within the association.
