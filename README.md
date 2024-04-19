@@ -3,19 +3,19 @@
 #### muhammad.akmal@alumni.kaist.ac.kr
 
 ## OBJECTIVE STATEMENT
--	Dynamic Ph.D. graduate in Materials Science & Engineering from KAIST, offering a decade of expertise in designing, fabricating, and characterizing advanced alloys, ceramics, and composites. Proven skills encompass alloy design, additive manufacturing using DED, and cold sintering of ceramics. Aspiring to apply machine learning in materials discovery. Seeking opportunities to drive innovation for diverse applications, including biomedical, waste immobilization, high-temperature, and plasma-facing environments within a lead R&D role. Published in esteemed journals, dedicated to creating cutting-edge products for a sustainable future.
+-	Dynamic Ph.D. graduate in Materials Science & Engineering from KAIST, offering a decade of expertise in designing, fabricating, and characterizing advanced alloys, ceramics, and composites. Proven skills encompass alloy design, **additive manufacturing** using **DED**, and **cold sintering** of ceramics. Aspiring to apply **machine learning in materials discovery**. Seeking opportunities to drive innovation for diverse applications, including **biomedical**, **waste immobilization**, **high-temperature**, and **plasma-facing environments** within a lead R&D role. Published in esteemed journals, dedicated to creating cutting-edge products for a sustainable future.
 
 ## EDUCATION 
 
 #### Ph.D. in Materials Science and Engineering (2018 – 2022)
 Korea Advanced Institute of Science and Technology [(KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea
-	**Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
-	**Supervisor**: Prof. [Ho Jin Ryu](https://fuel.kaist.ac.kr/index.php?mid=sub0101)
+- **Thesis**: Design and Characterization of High and Medium Entropy Alloys for Biomedical Implants
+- **Supervisor**: Prof. [Ho Jin Ryu](https://fuel.kaist.ac.kr/index.php?mid=sub0101)
   
 #### MS in Nanotechnology and Materials Engineering (2013 – 2015)
 GIK Institute of Engineering Sciences and Technology [(GIKI)](https://www.giki.edu.pk/), Topi, 23460, Pakistan
-	**Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants.
-	Supervisor: Prof. [Fazal Ahmad Khalid](https://en.wikipedia.org/wiki/Fazal_Ahmad_Khalid)
+- **Thesis**: Fabrication and Characterization of 316L/HA Functionally Graded Materials for Biomedical Implants.
+- Supervisor: Prof. [Fazal Ahmad Khalid](https://en.wikipedia.org/wiki/Fazal_Ahmad_Khalid)
 
 #### B.Sc in Metallurgy and Materials Engineering (2008 – 2012)
 Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
@@ -61,7 +61,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Wonjong Jeong, Young-Bum Chun, Suk Hoon Kang, Chang Kyu Rhee, Chang Hyoung Yoo, Seongjin Yoo, Hongmul Kim, **M. Akmal**, Ho Jin Ryu, Enhancement of strength and ductile-brittle transition temperature of SA508 Gr.3 low-alloy steel by controlling heat accumulation in laser powder directed energy deposition, Accepted, [**Journal of Materials Science & Technology**](https://www.sciencedirect.com/science/article/pii/S1005030224003219) (IF 10.9)
  ![Graphical](JMSRWJ.jpg)
   
--	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [**Materials Chemistry and Physics**, 315(2024)129037](https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)
+-	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [**Materials Chemistry and Physics, 315(2024)129037]**(https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)
   ![Graphical](MCPAM.jpg)
 	
 -	**M. Akmal**, Wonjong Jeong, Ho Jin Ryu, Ti-Zr-Nb based BCC Alloy containing Mo Prepared by Laser Directed Energy Deposition—ω Phase and Cellular Structure, [**Journal of Alloys and Compounds**, 969(2023)172306](https://doi.org/10.1016/j.jallcom.2023.172306) (IF 6.2)
