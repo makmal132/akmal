@@ -26,7 +26,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Investigated metal-mold reactions and related MC carbide growth in directionally solidified Ni-based superalloys (CM247LC; CMSX-4; GTD-111; René N5; IN738) for improvement in the casting processes. 
 -	Examining laser welding of dissimilar (Hastelloy-X and Inconel 939) superalloys for refurbishment and repair of the steam turbine engine components like vanes and blades
 
-**Postdoctoral Researcher | Mechanical Engineering Research Institute | [(KAIST)](https://www.kaist.ac.kr/en/), South Korea (Sep 2022- Sep 2023)**
+**Postdoctoral Researcher | Mechanical Engineering Research Institute | [KAIST](https://www.kaist.ac.kr/en/), South Korea (Sep 2022- Sep 2023)**
 -	Designed and analyzed additive manufacturing of BCC medium entropy alloys (MEAs)/ β-Ti alloys using DED; among the first studies reported that utilized DED for β-Ti alloys and achieved significant mechanical properties.
 -	Implemented electrically assisted pressured joining techniques for dissimilar alloys: Ti64-(TiZrNb)MoTa0.1 MEAs for potential application in making blisks (bladed disks) of turbine engines.
 	Supervised and mentored a senior-year undergraduate student of MSE for the final-year project.
@@ -39,7 +39,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Prepared TiZrNbMoTa HEAs using mechanical alloying and spark plasma sintering.
 -	Utilized Spark Plasma Sintering and Cold Sintering techniques for ceramics composites.
 
-**Materials Engineer | GIK Institute of Engineering Sciences and Technology | [(GIKI)](https://www.giki.edu.pk/), Pakistan (Jan 2016 – Aug 2017)**
+**Materials Engineer | Department of Materials Science & Engineering | [GIKI](https://www.giki.edu.pk/), Pakistan (Jan 2016 – Aug 2017)**
 -	Official Lab operator of Atomic Force Microscopy for nanofilms, nanocomposites, and sensors.
 -	Assisted in undergraduate courses: MM222 (Strength of Materials), MM231 (Phase Equilibria), MM221 (Materials Evaluation Techniques), MM463 (Electronics and Magnetic Materials), and MM451 (Corrosion and Protection).
 -	Conducted Nanotechnology and Materials Engineering Labs for senior and sophomore students.
@@ -49,7 +49,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	Conducted Phy-100 lab for Fall 2015 as one of the instructors on innovative physics experiments.
 -	Updated student helping manuals and organized the 3rd annual open house in Fall 2015 at the Physics department with the physics lab team at LUMS Lahore, Pakistan.
 
-**Graduate Assistant | GIK Institute of Engineering Sciences and Technology | [(GIKI)](https://www.giki.edu.pk/), Pakistan (Jan 2013 – Jan 2015)**
+**Graduate Assistant | GDepartment of Materials Science & Engineering  | [GIKI](https://www.giki.edu.pk/), Pakistan (Jan 2013 – Jan 2015)**
 -	Conducted labs for freshmen, junior, and senior students: Introductory lab to Materials Engineering (MM141L); Polymer Science & Engineering (MM345L); Metallography, Heat Treatment and Casting (MM344L); Powder Metallurgy (MM447L); and, Sintering Techniques & Composite Fabrication (MM446L)
 -	Assisted professors in teaching courses: Industrial Chemistry (MM101) and Introduction to Engineering Materials (MM102)
 -	Projects: Micro-structural modifications in low carbon steels by cyclic heat treatment;	Indigenous designing and fabrication of Arc Discharge setup for CNTs synthesis; 	Growth of CNTs using ACCVD; Effect of Cu addition on NiTiPt high-temperature shape memory alloys; Nano-Hydroxyapatite reinforcement in NiTi by Mechanical Alloying
