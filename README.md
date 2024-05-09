@@ -59,7 +59,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 -	**M. Akmal**, Dong-Soo Kang, Hyungsoo Lee, Dae Won Yun, Hi Won Jeong, Young-Soo Yoo, Seong-Moon Seo, Understanding the Metal-Mold interfacial reactions during directional solidification of superalloys-A case study for Hf-containing Nickel-based Superalloys, [**Journal of Alloys and Compounds**, 994(2023)172306](https://doi.org/10.1016/j.jallcom.2024.174735) (IF 6.2)
 ![Graphical](JALCOM2.jpg)
   
--	Wonjong Jeong, Young-Bum Chun, Suk Hoon Kang, Chang Kyu Rhee, Chang Hyoung Yoo, Seongjin Yoo, Hongmul Kim, **M. Akmal**, Ho Jin Ryu, Enhancement of strength and ductile-brittle transition temperature of SA508 Gr.3 low-alloy steel by controlling heat accumulation in laser powder directed energy deposition, Accepted, [**Journal of Materials Science & Technology**](https://www.sciencedirect.com/science/article/pii/S1005030224003219) (IF 10.9)
+-	Wonjong Jeong, Young-Bum Chun, Suk Hoon Kang, Chang Kyu Rhee, Chang Hyoung Yoo, Seongjin Yoo, Hongmul Kim, **M. Akmal**, Ho Jin Ryu, Enhancement of strength and ductile-brittle transition temperature of SA508 Gr.3 low-alloy steel by controlling heat accumulation in laser powder directed energy deposition, [**Journal of Materials Science & Technology**, 202(2024)240-252](https://www.sciencedirect.com/science/article/pii/S1005030224003219) (IF 10.9)
  ![Graphical](JMSRWJ.jpg)
   
 -	**M. Akmal**, Aamir Malik, Wonjong Jeong, Ho Jin Ryu, Incorporating Microstructural and Mechanical Heterogeneity to Ti–Zr–Nb Alloy by Partial High-Energy Ball Milling, [**Materials Chemistry and Physics**, 315(2024)129037](https://doi.org/10.1016/j.matchemphys.2024.129037) (IF 4.6)
