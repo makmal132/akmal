@@ -29,7 +29,7 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 **Postdoctoral Researcher | Mechanical Engineering Research Institute | [KAIST](https://www.kaist.ac.kr/en/), South Korea (Sep 2022- Sep 2023)**
 -	Designed and analyzed additive manufacturing of BCC medium entropy alloys (MEAs)/ β-Ti alloys using DED; among the first studies reported that utilized DED for β-Ti alloys and achieved significant mechanical properties.
 -	Implemented electrically assisted pressured joining techniques for dissimilar alloys: Ti64-(TiZrNb)MoTa0.1 MEAs for potential application in making blisks (bladed disks) of turbine engines.
-	Supervised and mentored a senior-year undergraduate student of MSE for the final-year project.
+-	Supervised and mentored a senior-year undergraduate student of MSE for the final-year project.
 
 **Research Assistant|Nuclear Fuel Materials Lab [(NFML)](https://fuel.kaist.ac.kr/), NQE | KAIST, South Korea (Aug 2018-Aug 2022)**
 -	Designed and characterized BCC high and medium entropy alloys (HEAs & MEAs) for biomedical applications, by tailoring composition and microstructure to improve ductility of TiZrNbMoTa alloy system, utilizing arc melting, powder metallurgy, and spark plasma sintering. Reported first in-vivo examination of a HEA in skeletal muscle of mice.
