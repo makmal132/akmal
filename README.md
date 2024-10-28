@@ -22,7 +22,10 @@ Bahauddin Zakariya University [(BZU)](https://www.bzu.edu.pk/), Multan, Pakistan
 	**FYP**: Effect of Ni on Hypo-eutectoid Steels
 
 ## PROFESSIONAL CAREER 
-**Senior Researcher | Department of High-Temperature Materials | [KIMS](https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Date)**
+**Postdoctoral Associate | Mechanical and Aerospace Engineering | [Cornell University](https://www.mae.cornell.edu/mae), Ithaca, USA (Sep 2024- Date)**
+-	 Additive Manufacturing for hybridized Ti alloys
+
+**Senior Researcher | Department of High-Temperature Materials | [KIMS](https://www.kims.re.kr/?lang=en), South Korea (Sep 2023- Sep 2024)**
 -	Investigated metal-mold reactions and related MC carbide growth in directionally solidified Ni-based superalloys (CM247LC; CMSX-4; GTD-111; René N5; IN738) for improvement in the casting processes. 
 -	Examining laser welding of dissimilar (Hastelloy-X and Inconel 939) superalloys for refurbishment and repair of the steam turbine engine components like vanes and blades
 
